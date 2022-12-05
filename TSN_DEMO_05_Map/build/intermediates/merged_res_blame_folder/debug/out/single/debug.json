@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "kz.talipovsn.map.TSN_DEMO_05_Map-merged_res-27:/drawable_hospital.png.flat",
+        "source": "kz.talipovsn.map.TSN_DEMO_05_Map-main-29:/drawable/hospital.png"
+    },
+    {
+        "merged": "kz.talipovsn.map.TSN_DEMO_05_Map-merged_res-27:/layout_activity_maps.xml.flat",
+        "source": "kz.talipovsn.map.TSN_DEMO_05_Map-main-29:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "kz.talipovsn.map.TSN_DEMO_05_Map-merged_res-27:/drawable-anydpi-v21_ic_baseline_my_location_24.xml.flat",
+        "source": "kz.talipovsn.map.TSN_DEMO_05_Map-pngs-22:/drawable-anydpi-v21/ic_baseline_my_location_24.xml"
+    },
+    {
+        "merged": "kz.talipovsn.map.TSN_DEMO_05_Map-merged_res-27:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "kz.talipovsn.map.TSN_DEMO_05_Map-main-29:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "kz.talipovsn.map.TSN_DEMO_05_Map-merged_res-27:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "kz.talipovsn.map.TSN_DEMO_05_Map-main-29:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "kz.talipovsn.map.TSN_DEMO_05_Map-merged_res-27:/drawable-hdpi_ic_baseline_my_location_24.png.flat",
+        "source": "kz.talipovsn.map.TSN_DEMO_05_Map-pngs-22:/drawable-hdpi/ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "kz.talipovsn.map.TSN_DEMO_05_Map-merged_res-27:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "kz.talipovsn.map.TSN_DEMO_05_Map-main-29:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "kz.talipovsn.map.TSN_DEMO_05_Map-merged_res-27:/drawable-mdpi_ic_baseline_my_location_24.png.flat",
+        "source": "kz.talipovsn.map.TSN_DEMO_05_Map-pngs-22:/drawable-mdpi/ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "kz.talipovsn.map.TSN_DEMO_05_Map-merged_res-27:/drawable_seventwo.png.flat",
+        "source": "kz.talipovsn.map.TSN_DEMO_05_Map-main-29:/drawable/seventwo.png"
+    },
+    {
+        "merged": "kz.talipovsn.map.TSN_DEMO_05_Map-merged_res-27:/drawable_twoseven.png.flat",
+        "source": "kz.talipovsn.map.TSN_DEMO_05_Map-main-29:/drawable/twoseven.png"
+    },
+    {
+        "merged": "kz.talipovsn.map.TSN_DEMO_05_Map-merged_res-27:/drawable-ldpi_ic_baseline_my_location_24.png.flat",
+        "source": "kz.talipovsn.map.TSN_DEMO_05_Map-pngs-22:/drawable-ldpi/ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "kz.talipovsn.map.TSN_DEMO_05_Map-merged_res-27:/drawable-xxhdpi_ic_baseline_my_location_24.png.flat",
+        "source": "kz.talipovsn.map.TSN_DEMO_05_Map-pngs-22:/drawable-xxhdpi/ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "kz.talipovsn.map.TSN_DEMO_05_Map-merged_res-27:/layout-land_activity_maps.xml.flat",
+        "source": "kz.talipovsn.map.TSN_DEMO_05_Map-main-29:/layout-land/activity_maps.xml"
+    },
+    {
+        "merged": "kz.talipovsn.map.TSN_DEMO_05_Map-merged_res-27:/drawable_five.png.flat",
+        "source": "kz.talipovsn.map.TSN_DEMO_05_Map-main-29:/drawable/five.png"
+    },
+    {
+        "merged": "kz.talipovsn.map.TSN_DEMO_05_Map-merged_res-27:/drawable-xxxhdpi_ic_baseline_my_location_24.png.flat",
+        "source": "kz.talipovsn.map.TSN_DEMO_05_Map-pngs-22:/drawable-xxxhdpi/ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "kz.talipovsn.map.TSN_DEMO_05_Map-merged_res-27:/menu_main_menu.xml.flat",
+        "source": "kz.talipovsn.map.TSN_DEMO_05_Map-main-29:/menu/main_menu.xml"
+    },
+    {
+        "merged": "kz.talipovsn.map.TSN_DEMO_05_Map-merged_res-27:/drawable_bayant.png.flat",
+        "source": "kz.talipovsn.map.TSN_DEMO_05_Map-main-29:/drawable/bayant.png"
+    },
+    {
+        "merged": "kz.talipovsn.map.TSN_DEMO_05_Map-merged_res-27:/drawable-xhdpi_ic_baseline_my_location_24.png.flat",
+        "source": "kz.talipovsn.map.TSN_DEMO_05_Map-pngs-22:/drawable-xhdpi/ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "kz.talipovsn.map.TSN_DEMO_05_Map-merged_res-27:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "kz.talipovsn.map.TSN_DEMO_05_Map-main-29:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "kz.talipovsn.map.TSN_DEMO_05_Map-merged_res-27:/layout_activity_detail.xml.flat",
+        "source": "kz.talipovsn.map.TSN_DEMO_05_Map-main-29:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "kz.talipovsn.map.TSN_DEMO_05_Map-merged_res-27:/drawable_vash.png.flat",
+        "source": "kz.talipovsn.map.TSN_DEMO_05_Map-main-29:/drawable/vash.png"
+    },
+    {
+        "merged": "kz.talipovsn.map.TSN_DEMO_05_Map-merged_res-27:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "kz.talipovsn.map.TSN_DEMO_05_Map-main-29:/mipmap-xhdpi/ic_launcher.png"
+    }
+]

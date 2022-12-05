@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="startMarker_id">m0</string>
+    <string name="startMarker_title">Павлодар</string>
+    <string name="startMarker_info">
+        <![CDATA[
+               <b>Ближайшие объекты к дому</b> <BR>
+        Школа №27, поликлиника №5, супермаркет "Ваш магазин", Детский сад №72 и Дворец спорта "Баянтау"<BR>
+        ]]>
+        </string>
+    <string name="startMarker_file"></string>
+
+    <!--  -->
+
+    <string name="marker1_id">m1</string>
+    <string name="marker1_title">Школа №27</string>
+    <string name="marker1_txt_click">Школа №27</string>
+    <string name="marker1_info">
+        <![CDATA[
+        <b>Школа №42
+           </b><BR>
+        Учебное госудаственное заведение для получения общего образования.<BR>
+        Телефон: +7 7182 33 81 23<BR>
+        Адрес: г.Павлодар, ул.Павлова, 17<BR>
+        Сайт: https://www.instagram.com/27_mektep_pvl/<BR>
+        ]]>
+        </string>
+    <string name="marker1_file">file:///android_asset/TwoSeven/index.html</string>
+
+    <!--  -->
+
+    <string name="marker2_id">m2</string>
+    <string name="marker2_title">Поликлиника №5</string>
+    <string name="marker2_txt_click">Поликлиника №5</string>
+    <string name="marker2_info">
+        <![CDATA[
+        <b>Поликлиника №5 г.Павлодар </b> <BR>  —  многопрофильное или специализированное лечебно-профилактическое учреждение
+        для оказания амбулаторной медицинской помощи больным на приёме и на дому.<BR>
+        Телефон: +7 7182 66 14 03 <BR>
+        Адрес: ул. Камзина, 5<BR>
+        Сайт: https://www.instagram.com/poliklinika5mail.ru/ <BR>
+        ]]>
+        </string>
+    <string name="marker2_file">file:///android_asset/FiveHosp/index.html</string>
+
+    <string name="marker3_id">m3</string>
+    <string name="marker3_title">Ваш магазин</string>
+    <string name="marker3_txt_click">Ваш магазин</string>
+    <string name="marker3_info">
+        <![CDATA[
+        <b>"Ваш магазин"
+           </b><BR>
+         - торговая сеть продуктовых супермаркетов. <BR>
+        Компания содержит несколько филиалов в городе.<BR>
+        Адрес: ул. Камзина, 18, Павлодар, 140000<BR>
+        Сайт: https://www.instagram.com/vash.magazin.pvl/ <BR>
+        ]]>
+        </string>
+    <string name="marker3_file">file:///android_asset/Vash/index.html</string>
+
+    <!--  -->
+
+    <string name="marker4_id">m4</string>
+    <string name="marker4_title">Детский сад №72</string>
+    <string name="marker4_txt_click">Детский сад №72</string>
+    <string name="marker4_info">
+        <![CDATA[
+        <b>Детский сад №72. </b> <BR>
+        Детский сад для детей в возрасте от 3 до 7 лет<BR>
+        Телефон: +7 7182 54 22 87 <BR>
+        Адрес: ул. Камзина, 16/1, Павлодар, 140000<BR>
+        Сайт: https://www.instagram.com/balabaksha72/<BR>
+        ]]>
+        </string>
+    <string name="marker4_file">file:///android_asset/SevenTwo/index.html</string>
+
+    <!--  -->
+
+    <string name="marker5_id">m5</string>
+    <string name="marker5_title">Дворец спорта "Баянтау"</string>
+    <string name="marker5_txt_click">Дворец спорта "Баянтау"</string>
+    <string name="marker5_info">
+        <![CDATA[
+        <b>Дворец спорта "Баянтау" </b> <BR>  — спортивно-оздоровительное учреждение, построенное на месте бывшего стадиона "Автомобилист". <BR>
+
+        Телефон: +7 7182 65 16 50<BR>
+        Адрес: ул. Камзина, 39/2, Павлодар, 140000<BR>
+        ]]>
+        </string>
+    <string name="marker5_file">file:///android_asset/Bayant/index.html</string>
+
+</resources>
